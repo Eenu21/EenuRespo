@@ -74,11 +74,10 @@ width: 10%;
 }
 .FontWeight{
   font-weight: normal;
-
-margin: 50 auto 0 auto;
-font-family: 'Sacramento', cursive;
-font-size: 90px;
-color: #66BFBF;
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
 
 }
 
